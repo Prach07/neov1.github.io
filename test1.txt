@@ -1,0 +1,1 @@
+test input text on file test1.txt with echo and > std output
